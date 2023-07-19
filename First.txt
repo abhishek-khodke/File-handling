@@ -1,0 +1,5 @@
+Files are very common permanent storage areas to store our data.
+Types of files are text file and binary files.
+1 r open an existing file for read operation.
+2 w open an existing file for write operation.
+3 a open an existing file for append operation.
